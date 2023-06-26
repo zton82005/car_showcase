@@ -10,7 +10,7 @@ const Navbar = () => {
             <Link href="/" className="flex justify-center items-center">
                 <Image 
                     src="/logo.svg"
-                    alt="Chadodong Car Dealership"
+                    alt="Chadodong Car Rental"
                     width={118}
                     height={18}
                     className="object-contain"
